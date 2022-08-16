@@ -1,0 +1,64 @@
+   64  git clone https://github.com/rogergelio/P_Mecatronica.git
+   65  ls
+   66  cd P_Mecatronica
+   67  ls -la
+   68  ls
+   69  cd Practica01
+   70  cd Dir1
+   71  cd Dir11
+   72  cd Dir111
+   73  $ touch arc111.txt
+   74  touch arc111.txt
+   75  cd -
+   76  cd Dir112
+   77  touch arc112.py
+   78  cd --
+   79  cd /Desktop/P_Mecatronica/Practica01/Dir1/Dir11/
+   80  cd Desktop/P_Mecatronica/Practica01/Dir1/Dir11/
+   81  cd -
+   82  cd Desktop/P_Mecatronica/Practica01/Dir1
+   83  cd Dir121
+   84  ls
+   85  cd Dir12
+   86  cd Dir121
+   87  touch arc121.txt
+   88  cd Dir1212
+   89  touch arc1212.txt
+   90  cd --
+   91  cd /Desktop/P_Mecatronica
+   92  cd Desktop/P_Mecatronica
+   93  tree
+   94  snap install tree
+   95  apt install tree
+   96  tree
+   97  cd /
+   98  cd Desktop
+   99  ls
+  100  cd /home/robotica/Desktop/P_Mecatronica
+  101  git push
+  102  ls -la
+  103  git push
+  104  git help credentials
+  105  git add .
+  106  git commit
+  107  git config user.email "rogergeliotorres@gmail.com"
+  108  git config user.name "rogergelio"
+  109  git commit -m "a"
+  110  git push
+  111  ls
+  112  cd Practica01
+  113  ls
+  114  rm Copia_Dir
+  115  rm -d Copia_Dir
+  116  rm -r Copia_Dir
+  117  cd /-
+  118  cd .
+  119  cd
+  120  cd /home/robotica/Desktop
+  121  cd P_Mecatronica
+  122  git add .
+  123  git commit -m "delete Copy_Dir"
+  124  git push
+  125  top
+  126  history
+
